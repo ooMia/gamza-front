@@ -1,5 +1,5 @@
 {
-  "name": "oomia.github.io",
+  "name": "gamza-front",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,7 +22,7 @@
     "eslint-config-next": "^14.2.14",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
-    "typescript": "^5.6.2"
+    "typescript": "<5.6.0"
   },
   "packageManager": "pnpm@9.12.1"
 }
