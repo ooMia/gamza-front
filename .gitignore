@@ -43,3 +43,6 @@ pnpm-lock.yaml
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# yarn
+.yarn
